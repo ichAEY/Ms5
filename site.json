@@ -1,0 +1,21 @@
+{
+  "$schema":"https://raw.githubusercontent.com/ichAEY/tanem-site-engine-v2/v0.1.0/site.schema.json",
+  "version":2,
+  "layout":"master",
+  "specialty":"hair",
+  "brand":{"name":"Иутинский А. А.","subtitle":"парикмахер-колорист","monogram":"И"},
+  "master":{"name":"Алексей Иутинский","profession":"парикмахер-колорист","locationLabel":"Москва · Велозаводская","heroTitle":"Иутинский А. А.","heroAccent":"парикмахер-колорист","heroCopy":"Стрижки, окрашивание, тонирование и сложные техники колористики по предварительной записи.","experience":"от 5 000 ₽","experienceLabel":"женская стрижка","aboutTitle":"Алексей Иутинский","aboutLead":"Парикмахер-колорист в Москве.","aboutParagraphs":["В публичной карточке указаны стрижки, тонирование, окрашивание, мелирование и сложные техники колористики.","Текущий адрес после переезда — Велозаводская улица, 6; запись доступна по телефону и через сайт мастера."],"skills":["Стрижки","Окрашивание и тонирование","Сложная колористика"]},
+  "location":{"city":"Москва","address":"Москва, Велозаводская улица, 6","mapCardAddress":"Велозаводская улица, 6","scheduleLabel":"По предварительной записи","timezone":"Europe/Moscow","weeklyHours":[],"mapEmbedUrl":"https://yandex.ru/map-widget/v1/?oid=215131461022&mode=search"},
+  "contacts":[{"type":"booking","label":"Записаться","url":"https://coloristalexey.tilda.ws/","primary":true},{"type":"phone","label":"Позвонить","value":"+7 (985) 069-70-10","url":"tel:+79850697010"},{"type":"map","label":"Открыть Яндекс Карты","url":"https://yandex.ru/maps/org/parikmakher_kolorist_iutinskiy_a_a_/215131461022/"}],
+  "bookingUrl":"https://coloristalexey.tilda.ws/",
+  "reputation":{"rating":"5,0","reviewCount":"88","reviewsUrl":"https://yandex.ru/maps/org/parikmakher_kolorist_iutinskiy_a_a_/215131461022/reviews/"},
+  "hero":{"portrait":{"src":"assets/hero.svg","alt":"Алексей Иутинский — парикмахер-колорист"},"aboutPhoto":{"src":"assets/hero.svg","alt":"Алексей Иутинский"},"mobileVisual":{"src":"assets/hero.svg","alt":""},"thirdStat":"reviews"},
+  "portfolio":{"title":"Направления работы","lead":"Стрижки и колористика","gallery":[{"src":"assets/hero.svg","alt":"Иутинский А. А. — колористика"}],"beforeAfter":[]},
+  "services":{"intro":"Показываем только опубликованные цены; стоимость остальных услуг уточняется при записи.","categories":[{"id":"haircut","label":"Стрижки","services":[{"name":"Женская стрижка","price":{"type":"from","value":"5 000 ₽"},"bookingUrl":"https://coloristalexey.tilda.ws/"}]},{"id":"coloring","label":"Окрашивание","services":[{"name":"Окрашивание волос","price":{"type":"text","value":"Уточнить"},"bookingUrl":"https://coloristalexey.tilda.ws/"},{"name":"Тонирование","price":{"type":"text","value":"Уточнить"},"bookingUrl":"https://coloristalexey.tilda.ws/"},{"name":"Сложное окрашивание","price":{"type":"text","value":"Уточнить"},"bookingUrl":"https://coloristalexey.tilda.ws/"},{"name":"Мелирование / осветление","price":{"type":"text","value":"Уточнить"},"bookingUrl":"https://coloristalexey.tilda.ws/"}]}]},
+  "promotions":[],
+  "reviews":[],
+  "amenities":[{"title":"Wi‑Fi","text":"Указан в карточке мастера"},{"title":"Онлайн-запись","text":"Доступна через сайт мастера"},{"title":"Предварительная запись","text":"Приём по записи"}],
+  "seo":{"title":"Иутинский А. А. — парикмахер-колорист в Москве","description":"Алексей Иутинский: стрижки, окрашивание, тонирование и запись в Москве.","keywords":["Иутинский А. А.","парикмахер-колорист","Москва"],"locale":"ru_RU"},
+  "analytics":{},
+  "deployment":{}
+}
